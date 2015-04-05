@@ -1,0 +1,19 @@
+{
+  "name": "ssteamer.github.io",
+  "version": "0.0.0",
+  "authors": [
+    "Alex Vargas <vargas.84@osu.edu>"
+  ],
+  "description": "Pullups to Pullups",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.4"
+  }
+}
